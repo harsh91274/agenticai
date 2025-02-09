@@ -13,3 +13,4 @@ PyMuPDF
 wikipedia
 lxml
 langchain_huggingface
+langchain-groq
